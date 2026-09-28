@@ -9,8 +9,8 @@
 // ---------------------- CONFIGURACIÓN ADAFRUIT IO ----------------------
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "leguzman14"   
-#define AIO_KEY         "aio_EnBh51FYL2WlbSqnRiTA4nSU0XTD"           
+#define AIO_USERNAME    ""   
+#define AIO_KEY         ""           
 
 // ---------------------- PINES ----------------------
 #define TRIG_PIN  18
